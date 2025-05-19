@@ -73,11 +73,6 @@ This Natural Language Processing (NLP) project analyzes sentiment in movie revie
 ## 👨‍💻 Author
 
 **Kartik Trisal**  
-_Data Analyst | NLP Enthusiast_  
+_Data Analyst  
 [GitHub](https://github.com/kartiktrisal) | [LinkedIn](https://linkedin.com/in/kartiktrisal)
 
----
-
-## 📜 License
-
-This project is open for educational and non-commercial use.
